@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317037375356",
+    "project_id": "netapi-e01ed",
+    "storage_bucket": "netapi-e01ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317037375356:android:4c50a148221c9669bafef9",
+        "android_client_info": {
+          "package_name": "br.com.brcarlini.netapiprojeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317037375356-amiegf0ju6u0n2c3p7b6vs959k0m9p6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALBtwJaz0Rsii3vEEhs0EJDzTEwsg-j88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317037375356-amiegf0ju6u0n2c3p7b6vs959k0m9p6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
