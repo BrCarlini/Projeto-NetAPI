@@ -14,22 +14,22 @@ Dependências:
 
 ## Activity de Login
 ![image](https://user-images.githubusercontent.com/62159849/201549838-d5206bd5-b4e4-48d6-ac08-39a9be659dde.png)
-  
+#
   
   
 ## Activity de Cadastro
 ![image](https://user-images.githubusercontent.com/62159849/201549905-d92704e2-9fad-48c8-b869-017b298a026a.png)
-
+#
   
   
 ## Toast de Validação de Login
 ![image](https://user-images.githubusercontent.com/62159849/201550013-1a31a815-a1cd-4831-b5f0-041c79bc8e35.png)
-  
+ # 
   
   
 ## Activity Home - Lista de Filmes Populares no momento
 ![image](https://user-images.githubusercontent.com/62159849/201550100-385017d9-72ab-4a35-890c-55cbab786954.png)
-  
+  #
   
   
 ## Activity - Lista de Series Populares no momento
