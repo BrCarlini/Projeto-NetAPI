@@ -48,6 +48,14 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
 
 
+    //Dependência retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+
+    //Dependência picasso
+    implementation 'com.squareup.picasso:picasso:2.8'
+
 
     //Dependência do Firebase
     implementation platform('com.google.firebase:firebase-bom:31.0.2')
