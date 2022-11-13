@@ -28,9 +28,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        val intent = Intent(this, MeusFilmesActivity::class.java)
-        startActivity(intent)
-
         binding.btnLogar.setOnClickListener {
             val email = binding.editEmailLogin.text.toString()
             val senha = binding.editSenhaLogin.text.toString()
